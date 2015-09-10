@@ -1,0 +1,51 @@
+body {
+	background-color: #ffffff;
+}
+
+p {
+	font-family: Lucida Grande, sans-serif;
+	color: #416fA0;
+	background-color: #ffffff;
+	font-size: small;
+	margin: 15px 15px;
+
+}
+
+#description {
+	font-weight: bold;
+	font-family: Lucida Grande, sans-serif;
+	color: #5a93af;
+	text-align: center;
+	font-size: small;
+
+}
+
+h1 {
+	font-family: Lucida Sans Unicode, sans-serif;
+	color: #5a93af;
+	background-color: #ffffff;
+	text-align: center;
+}
+
+
+h4 {
+	font-family: Lucida Sans Unicode, serif;
+	color: #5a93af;
+	background-color: #ffffff;
+	font-style: italic;
+	text-align: center;
+}
+
+h3 {font-family: Lucida Sans Unicode, serif;
+	color:#5a93af;
+	text-align: center;
+}
+
+ul {
+	font-family: Lucida Grande, sans-serif;
+	color: #416fA0;
+	font-style: italic;
+	font-size: small;
+	list-style-position: inside;
+
+}
